@@ -1,5 +1,4 @@
-   [![Project Banner](https://github.com/himanshu8443/InkSync/assets/99420590/0e79c4b5-a834-4235-a741-67ca97e02abd)](http://inksync.cloud/)
-
+ 
    
 A Real-Time Collaborative Whiteboard Web App built with NextJs.
 ---
@@ -10,7 +9,8 @@ A Real-Time Collaborative Whiteboard Web App built with NextJs.
 
 ---
 ## ScreenShots
-![image](https://github.com/himanshu8443/InkSync/assets/99420590/4971f9c1-5c19-436a-af31-664ecda2084d)
+
+![Screenshot 2025-06-24 234150](https://github.com/user-attachments/assets/51de959a-e94f-4abc-a1e6-321100f2420c)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
@@ -19,7 +19,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/himanshu8443/InkSync.git
+    git clone https://github.com/AmanKumar-26/InkSync.git
     ```
     
 2. Install the required packages.
@@ -48,7 +48,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
     ```
 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open (http://localhost:3000/room/HiuXfKidhLg9AXHs9zzk) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
